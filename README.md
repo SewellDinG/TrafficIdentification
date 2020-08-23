@@ -1,3 +1,14 @@
+## 基础知识
+
+☆1、[SSL/TLS、对称加密和非对称加密和TLSv1.3](https://tinychen.com/200602-encryption-intro)
+
+- SSL/TLS发展历史，对称与非对称加密。
+- TLS v1.2和v1.3的握手过程及主要不同。
+
+2、[PKI/CA工作原理及架构](https://www.jianshu.com/p/c65fa3af1c01)
+
+- 数字签名、数字证书、PKI/CA体系。
+
 ## 工具
 
 1、[初探加密流量识别](https://www.secrss.com/articles/14298)：Cisco开源的[Joy](https://github.com/cisco/joy)。
